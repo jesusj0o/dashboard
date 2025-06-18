@@ -1,7 +1,10 @@
-import React from 'react'
+import { navbarItems } from "../constants";
+
+
 
 export const Navbar = () => {
   return (
-    <div>Navbar</div>
-  )
-}
+    <>
+    </>
+  );
+};
