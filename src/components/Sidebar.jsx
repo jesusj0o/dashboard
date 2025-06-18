@@ -14,12 +14,6 @@ export const Sidebar = () => {
           <p>Gig share</p>
         </div>
 
-        {/* Usuario */}
-        <div className="mb-6 ml-10 flex items-center gap-2">
-          <FaUserCircle className="text-purple-300" />
-          <span>Jennifer Ross</span>
-        </div>
-
         {/* Navegación */}
         <nav className="ml-10 flex flex-col gap-4 text-sm">
           <a href="#" className="flex items-center gap-2 hover:text-gray-200">
