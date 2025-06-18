@@ -1,4 +1,4 @@
-import { Navbar, Sidebar, Header } from "./components";
+import { Sidebar, Header } from "./components";
 
 const App = () => {
   return (

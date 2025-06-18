@@ -1,5 +1,3 @@
-import React from 'react'
-
 export const Header = () => {
   return (
     <div className='felx justify-between items-center'>
